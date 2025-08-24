@@ -1,0 +1,4 @@
+C:\Users\PC\Downloads\DCIT318_Assignment4__11347275\MedicalAppointmentSystem\obj\Debug\net6.0-windows\MedicalAppointmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Downloads\DCIT318_Assignment4__11347275\MedicalAppointmentSystem\obj\Debug\net6.0-windows\MedicalAppointmentSystem.AssemblyInfoInputs.cache
+C:\Users\PC\Downloads\DCIT318_Assignment4__11347275\MedicalAppointmentSystem\obj\Debug\net6.0-windows\MedicalAppointmentSystem.AssemblyInfo.cs
+C:\Users\PC\Downloads\DCIT318_Assignment4__11347275\MedicalAppointmentSystem\obj\Debug\net6.0-windows\MedicalAppointmentSystem.csproj.CoreCompileInputs.cache
